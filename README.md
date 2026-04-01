@@ -45,6 +45,7 @@ Each project follows a structured development pipeline:
 ## 📊 Projects Included
 
 * ⚡ Electricity Consumption Prediction
+* ⚡ CPU Temperature Prediction
 
 ---
 
