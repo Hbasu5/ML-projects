@@ -6,7 +6,8 @@ Predict power usage based on appliance and temperature data.
 
 ## 📊 Dataset
 
-* File: `electricity_data.csv`
+* File: `N/A | Sample will be added soon`
+* Dataset Link: [Kaggle Dataset](https://www.kaggle.com/datasets/hardikbasu/electricity-dataset)
 * Features: temperature, appliances usage, etc.
 
 ## 📈 EDA
