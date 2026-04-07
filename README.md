@@ -46,6 +46,7 @@ Each project follows a structured development pipeline:
 
 * ⚡ Electricity Consumption Prediction
 * ⚡ CPU Temperature Prediction
+* 📖 Student Marks Prediction
 
 ---
 
