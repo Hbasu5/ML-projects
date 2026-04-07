@@ -40,6 +40,15 @@ Each project follows a structured development pipeline:
 > Any new idea or modification is first tested in `initial.ipynb`, and once validated, transferred to `model_.ipynb`.
 #### Note: Underscore in `model_.ipynb` represents respective model folders.
 
+### 💾 Datsets
+
+* Each project includes a sample dataset (100–200 rows) to allow quick setup and testing without heavy downloads.
+* Due to the large size of full datasets, they are not stored in this repository.
+Instead, Kaggle dataset links are provided in each model’s README for easy access.
+* This approach ensures:
+  * ⚡ Fast cloning of the repository
+  * 🧪 Easy experimentation with sample data
+  * 📦 Access to complete datasets when needed
 ---
 
 ## 📊 Projects Included
@@ -88,6 +97,7 @@ This repository is built with a strong focus on:
 * Structured experimentation
 * Clean separation between testing and final models
 * Consistency across projects
+* Kaggle knowledge
 
 ---
 
