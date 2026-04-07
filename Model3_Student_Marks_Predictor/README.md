@@ -6,7 +6,8 @@ Predict Student marks based on midterm score, attendance percentage, study hours
 
 ## 📊 Dataset
 
-* File: `predictor_data.csv`
+* File: `N/A | Sample will be added soon`
+* Dataset Link: [Kaggle Dataset](https://www.kaggle.com/datasets/hardikbasu/student-marks-with-various-features)
 * Features: midterm score, attendance percentage, study hours, sleep hours, distractions and projects.
 
 ## 📈 EDA
