@@ -6,7 +6,8 @@ Predict CPU temperature based on cpu usage and ambient temperature data.
 
 ## 📊 Dataset
 
-* File: `cpu_data.csv`
+* File: `N/A | Sample will be added soon`
+* Dataset Link: [Kaggle Dataset](https://www.kaggle.com/datasets/hardikbasu/cpu-data-with-2-features)
 * Features: cpu ambient temperature, cpu usage, etc.
 
 ## 📈 EDA
