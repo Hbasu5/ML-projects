@@ -56,6 +56,7 @@ Instead, Kaggle dataset links are provided in each model’s README for easy acc
 * ⚡ Electricity Consumption Prediction
 * 🌡️ CPU Temperature Prediction
 * 📖 Student Marks Prediction
+* 💵 Bank Fraud Prediction
 
 ---
 
