@@ -54,7 +54,7 @@ Instead, Kaggle dataset links are provided in each model’s README for easy acc
 ## 📊 Projects Included
 
 * ⚡ Electricity Consumption Prediction
-* ⚡ CPU Temperature Prediction
+* 🌡️ CPU Temperature Prediction
 * 📖 Student Marks Prediction
 
 ---

@@ -1,4 +1,4 @@
-# ⚡ CPU Temperature Prediction
+# 🌡️ CPU Temperature Prediction
 
 ## 📌 Problem
 
